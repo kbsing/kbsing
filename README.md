@@ -48,22 +48,6 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![ncnn](https://img.shields.io/badge/ncnn-Vulkan-9C6CE0?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyIDE0LjkgOC4zIDIyLjcgOS4zIDE3IDE0LjEgMTguNCAyMiAxMiAxOC4zIDUuNiAyMiA3IDE0LjEgMS4zIDkuMyA5LjEgOC4zeiIvPjwvc3ZnPg==)
 
-## 📊 GitHub 统计
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kbsing&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kbsing&show_icons=true&include_all_commits=true&count_private=true&theme=github" alt="GitHub stats" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kbsing&layout=compact&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbsing&layout=compact&theme=github" alt="Top languages" />
-</picture>
-
-</div>
-
 ---
 
 <div align="center">
