@@ -15,10 +15,7 @@
 | 项目 | 说明 |
 | --- | --- |
 | [**lumeter**](https://github.com/kbsing/lumeter) | LUMEN MK·I — 安卓反射式测光表，为手动曝光与胶片摄影而生 |
-| [**wechat-radar**](https://github.com/kbsing/wechat-radar) | 微信聊天情报看板：群聊信号、话题、链接与趋势聚合 |
 | [**open-kimi-ppt-skill**](https://github.com/kbsing/open-kimi-ppt-skill) | 让 AI Agent 生成可编辑 PPTD / PPTX 的 Kimi Slides Skill，附本地浏览器编辑器 |
-| [**jianying-headless**](https://github.com/kbsing/jianying-headless) | 原生解析剪映草稿，隔离编辑与导出，附独立 Agent Skill |
-| [**x-ambient**](https://github.com/kbsing/x-ambient) | 把 X 时间线上的图片和视频变成整个页面的环境光 |
 | [**eink-dashboard**](https://github.com/kbsing/eink-dashboard) | 墨水屏仪表盘 |
 | [**onyx-png-screensaver**](https://github.com/kbsing/onyx-png-screensaver) | Boox 阅读器 PNG 屏保工具 |
 | [**PicACGComic**](https://github.com/kbsing/PicACGComic) | Kotlin 写的安卓漫画阅读器 |
