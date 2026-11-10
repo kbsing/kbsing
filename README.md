@@ -7,16 +7,12 @@
 <br/>
 
 > **你好，我是 Yuki（@kbsing）。**
-> 一个热衷于把硬件和固件折腾到听话为止的玩家：拆加密固件、给 Kindle / Boox / 裸墨水屏写刷新动画、
-> 往 ESP32 里塞各种奇怪的功能，顺手再写几个 Android 应用和桌面工具。
 
 ## 公开项目
 
 | 项目 | 说明 |
 | --- | --- |
-| [**lumeter**](https://github.com/kbsing/lumeter) | LUMEN MK·I — 安卓反射式测光表，为手动曝光与胶片摄影而生 |
-| [**eink-dashboard**](https://github.com/kbsing/eink-dashboard) | 墨水屏仪表盘 |
-| [**onyx-png-screensaver**](https://github.com/kbsing/onyx-png-screensaver) | Boox 阅读器 PNG 屏保工具 |
+| [**lumeter**](https://github.com/kbsing/lumeter) | LUMEN MK·I — 安卓反射式测光表，为手动曝光与胶片摄影而生 | [**onyx-png-screensaver**](https://github.com/kbsing/onyx-png-screensaver) | Boox 阅读器 PNG 屏保工具 |
 
 ## 常用工具链
 
@@ -37,6 +33,6 @@
 
 <div align="center">
 
-<sub>对着墨水屏发呆的时候，大概率只是在等它刷新完。</sub>
+
 
 </div>
